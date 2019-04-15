@@ -1,4 +1,4 @@
-# E2B_compass
+# E2B Compass
 CAD files for E2B compass model
 
 This repository contains OpenSCAD model files for parts to build a replica model of an E2B standby compass.
